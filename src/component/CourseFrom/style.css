@@ -1,0 +1,28 @@
+form{
+    margin: 0 !important;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 25px !important;
+}
+form input {
+    outline: none;
+    padding: 7px;
+    background-color: #ddd;
+    border: none;
+    font-size: 22px;
+}
+form button {
+    outline: none;
+    padding: 7px;
+    padding-bottom: 12px;
+    background-color: #008fd5;
+    border: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 22px;
+}
+@media(max-width:650px){
+    form button span{
+        display: none;
+    }
+}

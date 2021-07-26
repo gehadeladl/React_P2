@@ -1,0 +1,18 @@
+.App {
+  width: 80%;
+  margin: auto;
+  margin-top: 8%;
+  margin-bottom: 3%;
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 25px 15px;
+}
+.App h2 {
+  background-color: #008fd5;
+  color: #fff;
+  padding: 10px;
+  padding-bottom: 13px;
+  margin-bottom: 25px;
+  border-radius: 5px;
+}
+
